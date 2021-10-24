@@ -2,7 +2,7 @@
 
 ### ✍️ About me
 
-📚 I am M.tech in Design Engineering  2019 Batch passout, and I am currently learning to become a Fullstack developer. <br>
+📚 I am M.tech in Design Engineering  2019 Batch passout, and I am currently working on tech-stacks which are necessary to become a Fullstack developer. <br>
 💬 Any help or tips is always welcome! <br>
 👩‍💻 Intern at Newton School Coding Boot Camp <br>
 
