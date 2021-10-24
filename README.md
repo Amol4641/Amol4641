@@ -23,7 +23,7 @@ GitHub: https://github.com/Amol4641<br>
 ![Snake animation](https://github.com/Amol4641/Amol4641/blob/output/github-contribution-grid-snake.svg)
 
  <div>
-  <a href="https://github.com/carolandrade1">
+  <a href="https://github.com/Amol4641">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amol4641&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amol4641&layout=compact&langs_count=16&theme=default"/>
 <div>
