@@ -2,7 +2,7 @@
 
 ### ✍️ About me
 
-📚 I am M.tech in Design Engineering, and I am currently working on tech-stacks which are necessary to become a Fullstack developer. <br>
+📚 I am M.tech in Design Engineering, and I am currently working as full-stack developer intern at Newton school of coding. <br>
 💬 Any help or tips is always welcome! <br>
 👩‍💻 Intern at Newton School Coding Boot Camp <br>
 
